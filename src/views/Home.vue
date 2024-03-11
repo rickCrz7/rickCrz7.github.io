@@ -3,7 +3,7 @@
         <section id="profile">
             <div class="section__pic-container">
                 <img
-                    src="../assets/photo-1.jpg"
+                    src="../assets/photo-1.png"
                     alt="John Doe profile picture"
                     class="profile-pic"
                 />
@@ -48,7 +48,7 @@
             <div class="section-container">
                 <div class="section__pic-container">
                     <img
-                        src="../assets/photo-2.jpg"
+                        src="../assets/photo-2.png"
                         alt="Profile picture"
                         class="about-pic"
                     />
@@ -234,11 +234,11 @@
                 <div class="about-containers">
                     <div class="details-container color-container">
                         <div class="article-container">
-                            <img
+                            <!-- <img
                                 src="../assets/project-1.png"
                                 alt="Project 1"
                                 class="project-img"
-                            />
+                            /> -->
                         </div>
                         <h2 class="experience-sub-title project-title">
                             Project One
@@ -260,11 +260,11 @@
                     </div>
                     <div class="details-container color-container">
                         <div class="article-container">
-                            <img
+                            <!-- <img
                                 src="../assets/project-2.png"
                                 alt="Project 2"
                                 class="project-img"
-                            />
+                            /> -->
                         </div>
                         <h2 class="experience-sub-title project-title">
                             Project Two
@@ -286,11 +286,11 @@
                     </div>
                     <div class="details-container color-container">
                         <div class="article-container">
-                            <img
+                            <!-- <img
                                 src="../assets/project-3.png"
                                 alt="Project 3"
                                 class="project-img"
-                            />
+                            /> -->
                         </div>
                         <h2 class="experience-sub-title project-title">
                             Project Three
